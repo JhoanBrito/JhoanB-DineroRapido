@@ -1,0 +1,182 @@
+#prins{
+	width: 1300px;
+	height: 2270px;
+	border: 0px solid;
+	margin: auto;
+}
+
+header{
+	width: 1300px;
+	height: 100px;
+	border: 0px solid;
+}
+
+#logo{
+	width: 485px;
+	height: 100px;
+	border: 0px solid #000;
+	float: left;
+	text-align: center;
+	background: #006690;
+}
+
+.titulo{
+	font-size: 35px;
+}
+
+#logo h2{
+	color: #fff;
+}
+
+.menu{
+	width: 580px;
+	height: 60px;
+	border: 0px solid #ccc;
+	float: right;
+	background: #006690;
+
+}
+
+.menu ul{}
+
+.menu ul li{
+	list-style: none;
+	float: left;
+	padding: 4px;
+
+}
+
+.menu ul li a{
+	text-decoration: none;
+	padding: 15px 22px;
+	border: 0px solid #ccc;
+	color: #fff;
+}
+
+.menu ul li a:hover{
+	background: #fff;
+	color: #006690;
+	transition: background 0.5s, color 0.5s;
+} 
+
+#categoria{
+	width: 1300px;
+	height: auto; overflow: hidden;
+	border: 0px solid;
+	margin-top: 7px;
+}
+
+.uno{
+	width: 410px;
+	height: 490px;
+	border: 1px solid;
+	float: left;
+	text-align: center;
+	padding: 5px;
+}
+
+.dos{
+	margin-left: 17px;
+	margin-right: 17px;
+}
+
+.leer{
+	border: 1px solid;
+	text-decoration: none;
+	padding: 15px 20px 15px 20px;
+	background: #006690;
+	color: #fff;
+}
+
+.leer:hover{
+	background: #fff;
+	color: #006690;
+	transition: background 0.5s, color 0.5s
+}
+
+#info{
+	width: 1300px;
+	height: 450px;
+	border: 1px solid;
+	margin-top: 20px;
+}
+
+.textos{
+	text-align: center;
+	border: 1px solid #000;
+	width: 1270px;
+	height: 500px;
+	margin-top: 10px;
+	padding: 15px 15px;
+
+}
+
+.neo{
+	border: 1px solid;
+	padding: 1px 10px 2px 10px;
+	background: #006690;
+	text-decoration: none;
+	color: #fff;
+}
+
+.neo:hover{
+	background: #fff;
+	color: #006690;
+	transition: background 0.7s, color 0.7s;
+} 
+
+
+.bit{
+	border: 1px solid;
+	text-decoration: none;
+	padding: 1px 10px 2px 10px;
+	background: #006690;
+	color: #fff;
+}
+
+.bit:hover{
+	background: #fff;
+	color: #006690;
+	transition: background 0.7s, color 0.7s;
+}
+
+.youtube{
+	border: 1px solid;
+	text-decoration: none;
+	padding: 1px 10px 2px 10px;
+	background: #006690;
+	color: #fff;
+}
+
+.youtube:hover{
+	background: #fff;
+	color: #006690;
+	transition: background 0.7s, color 0.7s;
+}
+
+
+#textos{
+	border: 1px solid;
+	width: auto; overflow: hidden;
+	height: 500px;
+	padding: 5px;
+	text-align: center;
+}
+
+footer{
+   width: 1263px;
+   height: 65px;
+   text-align: center;
+   padding: 25px 20px 20px 20px;
+   background: #006690;
+   margin-top: 10px;
+}
+
+footer p {
+	color: #fff;
+}
+
+#footer p{
+	width: 500px;
+}
+
